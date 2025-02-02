@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "img":"../public/asset 3.jpeg",
+        "chiefname": "Shree Yogi Adityanath",
+        "title": "Hon'ble Chief Minister Uttar Pradesh",
+        "post": "President, General Body, RSAC-UP(ex-officio)"
+    },
+    {
+        "id": "2",
+        "img": "../public/asset 4.jpeg",
+        "chiefname": "Shri Anil Kumar",
+        "title": "Hon'ble Minister Uttar Pradesh",
+        "post": "Vice President, General Body, RSAC-UP(ex-officio)"
+    },
+    {
+        "id": "3",
+        "img": "../public/asset 5.jpeg",
+        "chiefname": "Shri Ajit Singh Pal",
+        "title": "Hon'ble State Minister Uttar Pradesh",
+        "post": "Vice President, General Body, RSAC-UP(ex-officio)"
+    },
+    {
+        "id": "4",
+        "img": "../public/asset 6.jpeg",
+        "chiefname": "Shri Pandhari Yadav",
+        "title": "IAS ",
+        "post": "C.G.B.(ex-officio),Prin. Secr., Deptt. of S&T, Gov. of UP"
+    },
+    {
+        "id": "5",
+        "img": "../public/asset 7.jpeg",
+        "chiefname":"Shri Sheeldhar Singh Yadav",
+        "title": "IAS",
+        "post": "Director,Special Secretary, Department of S&T, Gov. of UP"
+    },
+    {
+        "id": "5",
+        "img": "../public/asset 7.jpeg",
+        "chiefname":"Shri Sheeldhar Singh Yadav",
+        "title": "IAS",
+        "post": "Director,Special Secretary, Department of S&T, Gov. of UP"
+    },
+    {
+        "id": "5",
+        "img": "../public/asset 7.jpeg",
+        "chiefname":"Shri Sheeldhar Singh Yadav",
+        "title": "IAS",
+        "post": "Director,Special Secretary, Department of S&T, Gov. of UP"
+    },
+    {
+        "id": "5",
+        "img": "../public/asset 7.jpeg",
+        "chiefname":"Shri Sheeldhar Singh Yadav",
+        "title": "IAS",
+        "post": "Director,Special Secretary, Department of S&T, Gov. of UP"
+    },
+    {
+        "id": "5",
+        "img": "../public/asset 7.jpeg",
+        "chiefname":"Shri Sheeldhar Singh Yadav",
+        "title": "IAS",
+        "post": "Director,Special Secretary, Department of S&T, Gov. of UP"
+    },
+    {
+        "id": "5",
+        "img": "../public/asset 7.jpeg",
+        "chiefname":"Shri Sheeldhar Singh Yadav",
+        "title": "IAS",
+        "post": "Director,Special Secretary, Department of S&T, Gov. of UP"
+    }
+
+
+
+]
