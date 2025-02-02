@@ -3,10 +3,7 @@ import Sidebar from '../Components/Sidebar'
 
 const Objective = () => {
     return (
-        <div className='w-screen h-screen bg-[#F6F6F9]'>
-            <div className="container mx-auto flex flex-row gap-10 shadow-lg">
-                <Sidebar />
-                <div className=' bg-white shadow-2xl rounded-md w-full h-screen p-4 flex flex-col gap-10'>
+                <div className=' bg-white shadow-2xl rounded-md w-full p-4 flex flex-col gap-10'>
                     <h1 className='text-4xl font-semibold text-[#0F33A0] text-center'>Objective</h1>
                     <div className="list flex flex-col gap-5">
 
@@ -22,8 +19,6 @@ const Objective = () => {
                     <p>To periodically publish the results of remote sensing investigations carried out by the Centre.</p>
                     </div>
                 </div>
-            </div>
-        </div>
     )
 }
 

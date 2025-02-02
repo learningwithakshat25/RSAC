@@ -23,7 +23,6 @@ const Hero = () => {
         <img className='h-98 object-cover' src={Heroimg3} alt="Hero-Right-Logo" />
       </div>
       </div>
-
     </div>
   )
 }
